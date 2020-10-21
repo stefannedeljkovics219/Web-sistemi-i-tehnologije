@@ -1,0 +1,69 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table, th, td, tr{
+    border-collapse: collapse;
+    border: 2px solid green;
+}
+
+.klasa1{
+    text-align: center;
+    background-color: rgb(37, 150, 255);
+}
+
+.klasa2{
+    text-align: right;
+    background-color: yellow;
+}
+
+.klasa3{
+    text-align: left;
+    background-color: rgb(13, 216, 13);
+}
+
+#dva{
+    background-color: rgb(13, 216, 13);
+    color: red;
+}
+
+#klasa1{
+    text-align: center;
+}
+
+#klasa2{
+    text-align: right;
+}
+
+#klasa3{
+    text-align: left;
+}
+
+.forme{
+    margin: 0px auto;
+    width: 500px;
+    border-color: green;
+    border-style: solid;
+}
+
+div{
+    margin: 20px 0px 20px 0px;
+}
+
+ label{
+     display: inline-block;
+     text-align: right;
+     width: 150px;
+ }
+
+.btn{
+    padding: 0px 25px;
+    width: 160px;
+}
+
+.Button{
+    text-align: center;
+    width: 470px;
+}
